@@ -1,0 +1,13 @@
+re
+pandas
+jupyter
+tensorflow
+keras
+matplotlib
+sklearn
+statsmodels
+texlive==2022
+texlive-xetex==2022
+texlive-latex-extra==2022
+pandoc==2.16.1
+pypandoc==1.6.3
